@@ -226,4 +226,4 @@ Key specifications:
 
 ## License
 
-MIT License — free to use, modify, and distribute.
+ free to use, modify, and distribute.
